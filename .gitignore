@@ -4,3 +4,4 @@ src/index.js
 src/App.vue
 src/images
 index.html
+.npmignore

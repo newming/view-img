@@ -1,6 +1,6 @@
 {
   "name": "view-img",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a vue component for preview img",
   "main": "dist/view-img.js",
   "scripts": {
@@ -13,11 +13,9 @@
   ],
   "author": "newming",
   "license": "ISC",
-  "dependencies": {
-    "hammerjs": "^2.0.8",
-    "vue": "^2.5.3"
-  },
   "devDependencies": {
+    "hammerjs": "^2.0.8",
+    "vue": "^2.5.3",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
