@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+src/index.js
+src/App.vue
+src/images
+index.html
