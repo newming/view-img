@@ -11,6 +11,10 @@
     "vue",
     "zoom"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newming/view-img"
+  },
   "author": "newming",
   "license": "MIT",
   "devDependencies": {
