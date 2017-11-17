@@ -2,6 +2,8 @@
 
 a component for mobile preview img with hammerjs. support move and zoom
 
+[demo](https://newming.github.io/view-img)
+
 ## Usage
 
 ### A.Globally
