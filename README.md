@@ -1,5 +1,7 @@
 # view-img for vue.js
 
+please use the new [library](https://newming.github.io/view-bigimg) instead
+
 a component for mobile preview img with hammerjs. support move and zoom
 
 [demo](https://newming.github.io/view-img)
