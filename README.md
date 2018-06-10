@@ -8,6 +8,10 @@ a component for mobile preview img with hammerjs. support move and zoom
 
 ## Usage
 
+```bash
+npm install view-img
+```
+
 ### A.Globally
 
 ```js
